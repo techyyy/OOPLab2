@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alarm Manager</string>
+    <string name="alarm_off">Alarm OFF</string>
+    <string name="alarm_on">Alarm ON</string>
+    <string name="notification_text" />
+    <string name="notification_title" />
+    <string name="alarm_on_toast" />
+    <string name="alarm_off_toast" />
+</resources>
